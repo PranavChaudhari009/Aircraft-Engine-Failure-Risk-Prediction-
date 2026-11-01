@@ -1,4 +1,4 @@
-# Aircraft Engine Failure Prediction Model
+# Aircraft Engine Failure Prediction Model(Deep learning project)
 
 Predicts probability of engine failure within 30 flight cycles using LSTM on NASA CMAPSS FD001 sensor data.
 
